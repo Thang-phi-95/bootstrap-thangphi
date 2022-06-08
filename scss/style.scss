@@ -1,0 +1,18 @@
+@use "customer";
+
+// IMPORT THE SECTIONS
+@use "components/animation";
+@use "components/button";
+@use "components/mixins";
+@use "components/typogrophy";
+
+// IMPORT THE SECTIONS
+@use "section/navbar";
+@use "section/intro-section";
+@use "section/campanies";
+@use "section/services";
+@use "section/testimonials";
+@use "section/faq";
+@use "section/portfolio";
+@use "section/get-stater";
+@use "section/footer";
